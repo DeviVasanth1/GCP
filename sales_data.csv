@@ -1,0 +1,11 @@
+OrderID,CustomerName,Product,Quantity,OrderDate
+1001,Alice Smith,Laptop,1,2025-05-20
+1002,Bob Johnson,Smartphone,2,2025-05-20
+1003,Charlie Davis,Tablet,1,2025-05-21
+1004,Diana Lee,Monitor,2,2025-05-21
+1005,Evan King,Keyboard,3,2025-05-22
+1006,Fiona Scott,Laptop,1,2025-05-22
+1007,George Young,Mouse,5,2025-05-23
+1008,Hannah White,Webcam,2,2025-05-23
+1009,Ian Black,Headphones,1,2025-05-24
+1010,Julia Green,Speaker,2,2025-05-24
